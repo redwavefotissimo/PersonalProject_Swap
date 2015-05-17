@@ -1,0 +1,22 @@
+D:\vincent's folder\vs 2010 works\Swap\Swap\bin\Debug\Swap.exe
+D:\vincent's folder\vs 2010 works\Swap\Swap\bin\Debug\Swap.pdb
+D:\vincent's folder\vs 2010 works\Swap\Swap\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vincent's folder\vs 2010 works\Swap\Swap\obj\x86\Debug\Swap.Form1.resources
+D:\vincent's folder\vs 2010 works\Swap\Swap\obj\x86\Debug\Swap.Properties.Resources.resources
+D:\vincent's folder\vs 2010 works\Swap\Swap\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vincent's folder\vs 2010 works\Swap\Swap\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vincent's folder\vs 2010 works\Swap\Swap\obj\x86\Debug\Swap.exe
+D:\vincent's folder\vs 2010 works\Swap\Swap\obj\x86\Debug\Swap.pdb
+D:\vincent's folder\vs 2010 works\Home made games\3_Swap\Swap\obj\x86\Debug\Swap.exe
+D:\vincent's folder\vs 2010 works\Home made games\3_Swap\Swap\obj\x86\Debug\Swap.pdb
+D:\vincent's folder\vs 2010 works\Home made games\3_Swap\Swap\bin\Debug\Swap.exe
+D:\vincent's folder\vs 2010 works\Home made games\3_Swap\Swap\bin\Debug\Swap.pdb
+D:\vincent's folder\vs 2010 works\Home made games\3_Swap\Swap\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vincent's folder\vs 2010 works\Home made games\3_Swap\Swap\obj\x86\Debug\Swap.Form1.resources
+D:\vincent's folder\vs 2010 works\Home made games\3_Swap\Swap\obj\x86\Debug\Swap.Properties.Resources.resources
+D:\vincent's folder\vs 2010 works\Home made games\3_Swap\Swap\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vincent's folder\vs 2010 works\Home made games\3_Swap\Swap\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vincent's folder\myprojects\applications\games\c#_Swap\Swap\obj\x86\Debug\Swap.exe
+D:\vincent's folder\myprojects\applications\games\c#_Swap\Swap\obj\x86\Debug\Swap.pdb
+F:\Swap\Swap\obj\x86\Debug\Swap.exe
+F:\Swap\Swap\obj\x86\Debug\Swap.pdb
